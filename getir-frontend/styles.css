@@ -52,7 +52,32 @@ header{
 
 .logo {
     cursor: pointer;
+    margin-right: 15px;
+    height:19px;
+ 
+}
+.logo2 {
+    cursor: pointer;
+    margin-right: 14px;
+    height:17px;
+
+}
+.logo3 {
+    cursor: pointer;
+    margin-right: 14px;
+    height:17px;
+
+}
+.logo4 {
+    cursor: pointer;
+    margin-right: 14px;
+    height:17px;
+}
+.logo5 {
+    cursor: pointer;
     margin-right: auto;
+    height:17px;
+
 }
 .nav_links {
 list-style: none;
